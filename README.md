@@ -1,4 +1,4 @@
-# project-9
+# project-8
 classify chili powder and adultered chili powder
 
 🌶️ Chili Powder Adulteration Detection using CNN (MobileNetV2, VGG16, ResNet50)
